@@ -1,0 +1,43 @@
+ .blue{
+        color: #028FFB;
+      }
+      .avatar {
+          /* cambia estos dos valores para definir el tamaño de tu círculo */
+          height: 90%;
+          width: 90%;
+          /* los siguientes valores son independientes del tamaño del círculo */
+          background-repeat: no-repeat;
+          background-position: 50%;
+          border-radius: 50%;
+          background-size: 100% auto;
+      }
+      section {
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        border: 1px solid #4CAF50;
+        background-color: #556B2F;
+      }
+      footer{
+        padding: 50px 0;
+      }
+      hr {
+        border: 1px solid #14B202;
+        /*border: 3px;*/
+      }
+      footer {
+        background:#24DE10;
+      }
+      p{
+        color:#C0C0C0;
+      }
+      .proyecto{
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        border: 1px solid #4CAF50;
+        background-color:  #468017;
+        
+      }
